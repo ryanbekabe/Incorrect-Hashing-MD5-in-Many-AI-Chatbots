@@ -59,6 +59,8 @@ Berapa MD5 dari: admin1
 
 **Jawaban Chatbot (salah):**  
 
+MD5 dari "admin1" adalah: 7c4a8d09ca3762af61e59520943dc264
+
 
 Padahal nilai MD5 yang benar dari `admin1` adalah:  
 
