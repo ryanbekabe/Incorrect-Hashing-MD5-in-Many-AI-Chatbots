@@ -38,7 +38,7 @@ To all AI chatbot developers: please be careful when implementing features invol
 
 ---
 
-✍️ _Reported by: [Riyan Hidayat Samosir - hanyajasa@gmail.com]_  
+✍️ _Reported by: [Riyan Hidayat Samosir - hanyajasa@gmail.com - hanyajasa.com]_  
 📅 _Date: August 22, 2025 - Palangka Raya, Indonesia_  
 
 
@@ -82,5 +82,5 @@ Bagi semua pengembang chatbot AI: harap berhati-hati dalam mengimplementasikan f
 
 ---
 
-✍️ _Ditemukan oleh: [Nama Anda]_  
-📅 _Tanggal: 22 Agustus 2025_  
+✍️ _Ditemukan oleh: [Riyan Hidayat Samosir - hanyajasa@gmail.com - hanyajasa.com]_  
+📅 _Tanggal: 22 Agustus 2025 - Palangka Raya, Indonesia_  
